@@ -1,0 +1,75 @@
+.forecast_first {
+  width: 60%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.forecast_first img {
+  width: 150px;
+  height: auto;
+}
+
+.avgtemp {
+  font-weight: bold;
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+
+.forecasttext {
+  text-align: center;
+}
+
+.otherdetails {
+  margin-top: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.otherdetails1 {
+  text-align: center;
+  width: 17%;
+}
+
+.aa {
+  padding-left: 50px;
+}
+
+.hours {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+
+.hours1 {
+  text-align: center;
+}
+
+.hours1 img {
+  width: 80px;
+  margin-bottom: 0px;
+}
+
+.hours1 h3 {
+  font-size: 25px;
+}
+
+.formain {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+.forsub {
+  font-size: 10px;
+}
+
+.xx {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 0px;
+}

@@ -1,0 +1,39 @@
+.elements {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-right: 50px;
+  gap: 50px;
+  font-size: 20px;
+}
+
+.logo {
+  font-size: 30px;
+  padding-left: 50px;
+}
+
+.header_main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #5aa5b9;
+  color: #edf6f6;
+}
+
+.search {
+  border-radius: 10px;
+  border: none;
+  height: 25px;
+  width: 180px;
+  padding-left: 10px;
+}
+
+.searchicon {
+  width: 40px;
+}
+
+.search_bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
